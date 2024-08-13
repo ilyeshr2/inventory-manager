@@ -16,7 +16,7 @@ const Sidebar = () => {
             className='md:hidden px-3 py-3 bg-gray-100 rounded-full hover:bg-blue-100'
             onClick={() => {}}
           >
-            <Menu className='w-4 h-4' />
+          <Menu className='w-4 h-4' />
           </button>
       </div>
       {/* links */}
